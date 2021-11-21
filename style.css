@@ -465,7 +465,7 @@
     
     .one {
         background-image: url(./images/mobile/image-gallery-milkbottles.jpg);
-        width: 100%;
+        width: 50%;
         height: 400px;
         background-size: cover;
         background-repeat: center center;   
@@ -473,7 +473,7 @@
     
     .two {
         background-image: url(./images/mobile/image-gallery-orange.jpg);
-        width: 100%;
+        width: 50%;
         height: 400px;
         background-size: cover;
         background-repeat: center center;   
@@ -481,7 +481,7 @@
     
     .three {
         background-image: url(./images/mobile/image-gallery-cone.jpg);
-        width: 100%;
+        width: 50%;
         height: 400px;
         background-size: cover;
         background-repeat: center center;   
@@ -489,7 +489,7 @@
     
     .four {
         background-image: url(./images/mobile/image-gallery-sugar-cubes.jpg);
-        width: 100%;
+        width: 50%;
         height: 400px;
         background-size: cover;
         background-repeat: center center;   
