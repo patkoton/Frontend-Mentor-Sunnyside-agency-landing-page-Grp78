@@ -1,0 +1,527 @@
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-link:hover {
+    background-color:hsl(212, 27%, 19%);
+}
+
+.nav ul li a:active, nav ul li a:hover{
+    color: hsl(212, 27%, 19%);
+    text-decoration: none;
+}
+
+.hero {
+    background-image: url(./images/desktop/image-header.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 400px;
+}
+
+.wac {
+    color: hsl(0, 0%, 100%);
+    font-family: 'fraunces';
+    font-weight: 700;
+    letter-spacing: 10px;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'barlow';
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.bkwhite {
+    height: 500px;
+    width: 50%;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.eggimg {
+    background-image: url(./images/desktop/image-transform.jpg);
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;
+}
+
+.tyb {
+    color:  hsl(213, 9%, 39%);
+    justify-content: left;
+    margin-top: 100px;
+    margin-left: 25%;
+    font-family: 'fraunces';
+}
+
+.tyd {
+    color:  hsl(213, 9%, 39%);
+    justify-content: left;
+    margin-top: 100px;
+    margin-left: 25%;
+    font-family: 'fraunces';
+}
+
+.wafs {
+    margin-left: 25%;
+    margin-top: 30px;
+    color: hsl(232, 10%, 55%);
+    font-family: 'barlow';
+}
+
+.lerm {
+    width: 100px;
+    margin-left: 25%;
+    border-bottom: 10px solid hsl(51, 100%, 49%);
+    margin-top: 40px;
+}
+
+.learn {
+    color:  hsl(213, 9%, 39%);
+    font-family: 'barlow';
+}
+
+.cupimg {
+    background-image: url(./images/desktop/image-stand-out.jpg);
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;
+}
+
+.uacf {
+    margin-left: 25%;
+    margin-top: 30px;
+    color: hsl(232, 10%, 55%);
+    font-family: 'barlow';
+}
+
+.lerm2 {
+    width: 100px;
+    margin-left: 25%;
+    border-bottom: 10px solid hsl(51, 100%, 49%);
+    margin-top: 40px;
+}
+
+.imd {
+    background-image: url(./images/desktop/image-graphic-design.jpg);
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;   
+}
+
+.ip {
+    background-image: url(./images/desktop/image-photography.jpg);
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;   
+}
+
+.gd {
+    font-family: 'fraunces';
+    font-weight: 600;
+    color: hsl(167, 40%, 24%);
+    text-align: center;
+    padding-top: 320px;
+}
+
+.gdm {
+    font-family: 'barlow';
+    color: hsl(167, 40%, 24%);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.pd {
+    font-family: 'fraunces';
+    font-weight: 600;
+    color: hsl(198, 62%, 26%);
+    text-align: center;
+    padding-top: 320px;
+}
+
+.pdm {
+    font-family: 'barlow';
+    color: hsl(198, 62%, 26%);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ct {
+    background-color: hsl(0, 0%, 100%);
+}
+
+.client {
+    font-family: 'fraunces';
+    font-size: 18px;
+    letter-spacing: 5px;
+    color: hsl(232, 10%, 55%);
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.emily {
+    width: 33.33%;
+    text-align: center;
+}
+
+.thomas {
+    width: 33.33%;
+    text-align: center;
+}
+
+.jennie {
+    width: 33.33%;
+    text-align: center;
+}
+
+.wpo {
+    color: hsl(232, 10%, 55%);
+    padding-top: 50px;
+    font-family: 'barlow';
+}
+
+.em {
+    color: hsl(198, 62%, 26%);
+    font-weight: 700;
+    font-family: 'fraunces';
+}
+
+.md {
+    color: hsl(232, 10%, 55%);
+    font-family: 'barlow';
+    padding-bottom: 100px;
+} 
+
+.one {
+    background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
+    width: 25%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;   
+}
+
+.two {
+    background-image: url(./images/desktop/image-gallery-orange.jpg);
+    width: 25%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;   
+}
+
+.three {
+    background-image: url(./images/desktop/image-gallery-cone.jpg);
+    width: 25%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;   
+}
+
+.four {
+    background-image: url(./images/desktop/image-gallery-sugarcubes.jpg);
+    width: 25%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: center center;   
+}
+
+.footer {
+    background-color: hsl(168, 34%, 41%);
+}
+
+.del, .ete {
+    width: 35%;
+    height: 400px;
+}
+
+.ele {
+    width: 30%;
+}
+
+.sunny {
+    color: hsl(167, 40%, 24%);
+    font-family: 'barlow';
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.asp {
+    color: hsl(167, 40%, 24%);
+    text-decoration: none;
+    font-family: 'barlow';
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.icon {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: hsl(167, 40%, 24%);
+}
+
+@media (max-width: 576px) {
+    .hero {
+        background-image: url(./images/mobile/image-header.jpg);
+        background-size: auto;
+        background-position: center center;
+        width: 100%;
+        height: 400px;
+    }
+    
+    .wac {
+        color: hsl(0, 0%, 100%);
+        font-family: 'fraunces';
+        font-weight: 700;
+        letter-spacing: 10px;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    
+    .h1 {
+        color: hsl(0, 0%, 100%);
+        font-family: 'barlow';
+        font-weight: 700;
+        font-size: 24px;
+    }
+
+    .beg {
+        display: flex;
+        flex-flow: column-reverse;
+    }
+    
+    .bkwhite {
+        height: 400px;
+        width: 100%;
+        background-color: hsl(0, 0%, 100%);
+    }
+    
+    .eggimg {
+        background-image: url(./images/mobile/image-transform.jpg);
+        width: 100%;
+        height: 300px;
+        background-size: cover;
+        background-repeat: center center;
+    }
+    
+    .tyb {
+        color:  hsl(213, 9%, 39%);
+        font-family: 'fraunces';
+        text-align: center;
+        margin-right: 50%;
+        margin-top: 20px;
+    }
+    
+    .tyd {
+        color:  hsl(213, 9%, 39%);
+        text-align: center;
+        font-family: 'fraunces';
+        margin-right: 25%;
+        margin-top: 20px;
+    }
+    
+    .wafs {
+        margin-top: 5px;
+        color: hsl(232, 10%, 55%);
+        font-family: 'barlow';
+        margin-right: 20%;
+    }
+    
+    .lerm {
+        width: 25%;
+        border-bottom: 10px solid hsl(51, 100%, 49%);
+        margin-top: 10px;
+        margin-bottom: -20px;
+    }
+    
+    .learn {
+        color:  hsl(213, 9%, 39%);
+        font-family: 'barlow';
+    }
+    
+    .cupimg {
+        background-image: url(./images/mobile/image-stand-out.jpg);
+        width: 100%;
+        height: 300px;
+        background-size: cover;
+        background-repeat: center center;
+    }
+    
+    .uacf {
+        margin-right: 20%;
+        margin-top: 5px;
+        color: hsl(232, 10%, 55%);
+        font-family: 'barlow';
+    }
+    
+    .lerm2 {
+        width: 25%;
+        border-bottom: 10px solid hsl(51, 100%, 49%);
+        margin-top: 20px;
+    }
+    
+    .imd {
+        background-image: url(./images/mobile/image-graphic-design.jpg);
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-repeat: center center;   
+    }
+    
+    .ip {
+        background-image: url(./images/mobile/image-photography.jpg);
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-repeat: center center;   
+    }
+    
+    .gd {
+        font-family: 'fraunces';
+        font-weight: 600;
+        color: hsl(167, 40%, 24%);
+        text-align: center;
+        padding-top: 330px;
+    }
+    
+    .gdm {
+        font-family: 'barlow';
+        color: hsl(167, 40%, 24%);
+        text-align: center;
+        padding-top: 20px;
+    }
+    
+    .pd {
+        font-family: 'fraunces';
+        font-weight: 600;
+        color: hsl(198, 62%, 26%);
+        text-align: center;
+        padding-top: 340px;
+    }
+    
+    .pdm {
+        font-family: 'barlow';
+        color: hsl(198, 62%, 26%);
+        text-align: center;
+        padding-top: 20px;
+    }
+    
+    .ct {
+        background-color: hsl(0, 0%, 100%);
+    }
+    
+    .client {
+        font-family: 'fraunces';
+        font-size: 18px;
+        letter-spacing: 5px;
+        color: hsl(232, 10%, 55%);
+        text-align: center;
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    
+    .emily {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .thomas {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .jennie {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .wpo {
+        color: hsl(232, 10%, 55%);
+        padding-top: 50px;
+        font-family: 'barlow';
+    }
+    
+    .em {
+        color: hsl(198, 62%, 26%);
+        font-weight: 700;
+        font-family: 'fraunces';
+    }
+    
+    .md {
+        color: hsl(232, 10%, 55%);
+        font-family: 'barlow';
+        padding-bottom: 100px;
+    } 
+    
+    .one {
+        background-image: url(./images/mobile/image-gallery-milkbottles.jpg);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-repeat: center center;   
+    }
+    
+    .two {
+        background-image: url(./images/mobile/image-gallery-orange.jpg);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-repeat: center center;   
+    }
+    
+    .three {
+        background-image: url(./images/mobile/image-gallery-cone.jpg);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-repeat: center center;   
+    }
+    
+    .four {
+        background-image: url(./images/mobile/image-gallery-sugar-cubes.jpg);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-repeat: center center;   
+    }
+    
+    .footer {
+        background-color: hsl(168, 34%, 41%);
+    }
+    
+    .ele {
+        width: 100%;
+        margin-top: -300px;
+    }
+    
+    .sunny {
+        color: hsl(167, 40%, 24%);
+        font-family: 'barlow';
+        text-align: center;
+    }
+    
+    .asp {
+        color: hsl(167, 40%, 24%);
+        text-decoration: none;
+        font-family: 'barlow';
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: center;
+    }
+    
+    .icon {
+        margin-left: 10px;
+        margin-right: 10px;
+        color: hsl(167, 40%, 24%);
+    }
+}
