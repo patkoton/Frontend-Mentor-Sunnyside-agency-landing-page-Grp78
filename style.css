@@ -43,6 +43,13 @@
     background-color: hsl(0, 0%, 100%);
 }
 
+.bkwhite2 {
+    height: 500px;
+    width: 50%;
+    background-color: hsl(0, 0%, 100%);
+}
+
+
 .eggimg {
     background-image: url(./images/desktop/image-transform.jpg);
     width: 50%;
@@ -106,6 +113,12 @@
     margin-left: 25%;
     border-bottom: 10px solid hsl(51, 100%, 49%);
     margin-top: 40px;
+}
+
+.lmore {
+    text-decoration: none;
+    color:  hsl(213, 9%, 39%);
+    font-family: 'barlow';
 }
 
 .imd {
@@ -301,7 +314,13 @@
     }
     
     .bkwhite {
-        height: 400px;
+        height: 450px;
+        width: 100%;
+        background-color: hsl(0, 0%, 100%);
+    }
+
+    .bkwhite2 {
+        height: 490px;
         width: 100%;
         background-color: hsl(0, 0%, 100%);
     }
@@ -314,27 +333,27 @@
         background-repeat: center center;
     }
     
-    .tyb {
+    .tybm {
         color:  hsl(213, 9%, 39%);
         font-family: 'fraunces';
         text-align: center;
-        margin-right: 50%;
+        margin-right: 40%;
         margin-top: 20px;
     }
     
-    .tyd {
+    .tydm {
         color:  hsl(213, 9%, 39%);
         text-align: center;
         font-family: 'fraunces';
-        margin-right: 25%;
+        margin-right: 20%;
         margin-top: 20px;
     }
     
-    .wafs {
-        margin-top: 5px;
+    .wafsm {
         color: hsl(232, 10%, 55%);
         font-family: 'barlow';
         margin-right: 20%;
+        text-align: center;
     }
     
     .lerm {
@@ -357,11 +376,11 @@
         background-repeat: center center;
     }
     
-    .uacf {
+    .uacfm {
         margin-right: 20%;
-        margin-top: 5px;
-        color: hsl(232, 10%, 55%);
+        color: hsl(232, 33%, 42%);
         font-family: 'barlow';
+        text-align: center;
     }
     
     .lerm2 {
